@@ -63,3 +63,4 @@ RB 3; # Sets the value of register 3 (which is the IR register)
       # to the value of the MBR
       # At this point, IR should hold the value of 34, as the
       # main memory at location 1024 was initialized with 34
+
